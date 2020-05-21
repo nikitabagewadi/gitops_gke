@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: gcr.io/concrete-crow-244606/gke-poc:e36647f
+        image: gcr.io/concrete-crow-244606/gke-poc:373791a
         ports:
         - containerPort: 8080
